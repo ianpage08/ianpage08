@@ -1,6 +1,11 @@
 ![image](https://github.com/user-attachments/assets/63895626-19a0-4c0b-a5b8-0626e2d82774)
 
 <h1> Ian Page Miranda Maciel</h1>
+<a href="https://www.linkedin.com/in/ian-page-miranda-maciel-b98a07212/">
+ <img src="![image](https://github.com/user-attachments/assets/7a1728a0-3533-4143-b2a1-918a32c929de)
+">
+  
+</a>
 
 <!--
 **ianpage08/ianpage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
