@@ -10,6 +10,7 @@
 
  <h3>💼 Current Projects</h3>
  https://github.com/ianpage08/Projeto-Advocacia-Miranda-Maciel
+ https://github.com/ianpage08/Projeto-Escola-AEEC
 <!--
 **ianpage08/ianpage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
