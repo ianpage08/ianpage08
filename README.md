@@ -2,7 +2,7 @@
 
 <h1> Ian Page Miranda Maciel</h1>
 <a href="https://www.linkedin.com/in/ian-page-miranda-maciel-b98a07212/">
- <img  width= "50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+ <img  width= "40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
 <h3>Cursando Engenharia de Softwere Na Universidade UNOPAR</h3>
 <h3>Desenvolvedor Full Stack Python Na EBAC</h3>
