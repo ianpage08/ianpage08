@@ -2,10 +2,14 @@
 
 <h1> Ian Page Miranda Maciel</h1>
 <a href="https://www.linkedin.com/in/ian-page-miranda-maciel-b98a07212/">
- <img src="![image](https://github.com/user-attachments/assets/7a1728a0-3533-4143-b2a1-918a32c929de)
-">
+ <img  width= "50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
+<h3>Cursando Engenharia de Softwere Na Universidade UNOPAR</h3>
+<h3>Desenvolvedor Full Stack Python Na EBAC</h3>
+<p>Como Desenvolvedor Front-End em constante aprendizado e aprimoramento. Acompanho de perto as novidades do mercado e busco sempre me manter atualizado com as tecnologias mais recentes. Acredito que a curiosidade e a vontade de aprender são essenciais para um profissional de sucesso.</p>
 
+ <h3>💼 Current Projects</h3>
+ https://github.com/ianpage08/Projeto-Advocacia-Miranda-Maciel
 <!--
 **ianpage08/ianpage08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
